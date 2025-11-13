@@ -1,4 +1,4 @@
-/*drop procedure if exists pro1;
+drop procedure if exists pro1;
 delimiter $
 create procedure pro1()
 BEGIN
